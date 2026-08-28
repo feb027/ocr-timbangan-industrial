@@ -33,7 +33,7 @@
 
 ## ⚡ Ringkasan Eksekutif
 
-- **Topik valid & gap nyata.** Literatur OCR 7-segment selama ini **didominasi meter utilitas** (listrik/air/gas) dan **alat medis**. OCR khusus **timbangan industrial** nyaris tanpa paper peer-review.
+- **Topik valid & gap nyata** (dengan nuansa: ada riset timbangan, tapi konteks **non-transaksi**; kosong untuk **timbangan industri/logistik transaksi komersial** + kendala audit/offline/desimal-eksak). Mayoritas literatur OCR 7-segment = meter utilitas & alat medis.
 - **Anchor literatur terkini:**
   - ***Symmetry* (Apr 2026)** — masalah desimal hilang = error 100× (123.45→12345), solusi semantic rules.
   - ***Array* PRISMA SLR (2026)** — 61,5% ≥95% di kondisi terkontrol tapi hanya **4,5% sampai deployment lapangan**.

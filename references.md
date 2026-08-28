@@ -30,6 +30,14 @@
 
 14. **Elrefaei, L. A., Bajaber, A., Natheir, S., AbuSanab, N., & Bazi, M.** (2019). Automated method for detecting and reading seven-segment digits from medical devices. *Journal of Medical Engineering & Technology*. https://doi.org/10.1080/03091902.2019.1673844
 
+15. **Wannachai, A., Boonyung, W., & Champrasert, P.** (2020). Real-time seven segment display detection and recognition online system using CNN. *EAI/LNICST*, 52–67. https://doi.org/10.1007/978-3-030-57115-3_5
+
+16. **Seven segment display detection and recognition via deep learning technique** (2022, ECTI-CON, Cascade R-CNN). https://doi.org/10.1109/ecti-con54298.2022.9795620
+
+17. **Seven-segment display automatic detection and interpretation system using CNN-GO** (2022, GTSD). https://doi.org/10.1109/gtsd54989.2022.9989301
+
+18. **Zhang, R., Yan, K., & Ye, J.** (2024). Lightweight YOLOv7 for digital instrumentation detection and reading. *Computer Engineering and Applications, 60*(8), 192–201. http://cea.ceaj.org/EN/Y2024/V60/I8/192
+
 ---
 
 ## Sumber pendukung (non-sitasi utama, untuk konteks di `gap-analysis.md`)

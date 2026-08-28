@@ -5,7 +5,7 @@
 
 ---
 
-## 📊 Tabel Ringkasan (14 jurnal/paper terverifikasi)
+## 📊 Tabel Ringkasan (18 jurnal/paper terverifikasi)
 
 | # | Paper | Tahun | Domain | Metode | Hasil kunci |
 |---|---|---|---|---|---|
@@ -23,6 +23,10 @@
 | 12 | **Kanagarathinam & Sekar — *Energy Reports*** | 2019 | Meter listrik | Dataset publik 7-segment (YUVA EB) | fondasi dataset tujuh-segment meter |
 | 13 | **Laroca et al. — *J. EI*** | 2019 | Meter (AMR klasik) | Faster R-CNN / Fast-YOLO + CRNet/CRNN | 97,30% counter; 99,56% digit detection |
 | 14 | **Elrefaei et al. — *J. Med. Eng. Tech.*** | 2019 | 7-segment medis | Retinex + MSER + HOG + NN (sintetik) | **93%** akurasi digit asli via training sintetik |
+| 15 | **Wannachai et al. — *LNICST*** | 2020 | Display mesin manufaktur | CNN (camera + ISS framework) | interpretasi 91,1%; real-time |
+| 16 | **Cascade R-CNN — *ECTI-CON*** | 2022 | Display mesin (industri) | Cascade R-CNN end-to-end | Precision/recall/F1 = 0,999 |
+| 17 | **CNN-GO — *GTSD*** | 2022 | Instrumen industri | CNN + IoT device + overlapping scan | baca display 7-seg instrumen |
+| 18 | **Zhang, Yan & Ye — *CEA*** | 2024 | Instrumen digital (mobile) | Lightweight YOLOv7 + pruning | 98,44% akurasi sistem; param −99,67%; 10,7 ms |
 
 > ⚠️ **Catatan metodologi:** angka ≥95–98% (baris 6, 8, 12, 13) semua **dilatih & diuji pada data METEK ASLI** (2.300–12.500 gambar). Tidak ada yang mencapai itu dengan **training sintetik**. Ini justru membuktikan diagnosa PPT: *sintetik plateau, perlu data nyata*.
 
@@ -50,6 +54,14 @@
 - **[12] Kanagarathinam & Sekar (2019)** — dataset *YUVA EB* (7-segment energy meter) yang dipakai banyak paper; benchmark umum.
 - **[13] Laroca (2019)** — *automatic meter reading* klasik (CNN), rujukan baseline.
 - **[14] Elrefaei (2019)** — membuktikan **training sintetik bisa** mencapai 93% akurasi digit riil *jika* data sintetik merepresentasikan kondisi nyata → argumen "reconquer synthetic data ataupun butuh data nyata".
+
+### F. Industri/manufaktur (pendekatan paling dekat ke "display instrumen di lapangan")
+- **[15] Wannachai (2020)** — CNN baca display 7-seg **mesin manufaktur** via kamera, 91,1% — konteks industri nyata (vibrasi, refleksi, perubahan frame).
+- **[16] Cascade R-CNN (2022)** — end-to-end 7-seg pada mesin industri, F1=0,999.
+- **[17] CNN-GO (2022)** — sistem embedded/IoT baca instrumen industri dari foto.
+- **[18] Zhang et al. (2024)** — YOLOv7 ringan utk instrumen digital **di mobile**, 98,44%, 10,7 ms — dekat dengan kendala edge/on-device proyekmu.
+
+> **Jujur soal "OCR khusus timbangan":** ada beberapa paper baca layar *timbangan*, tapi **konteks non-transaksi** — Reyes-Reyes (IEEE Access 2025, timbangan peternakan), Xu et al. (2020, timbangan ujian kimia), visual-weighing dump truck. **Tidak ada** paper peer-review untuk **timbangan industri/logistik transaksi komersial** dengan kendala `desimal-eksak + no-manual-input/audit + offline/edge + confidence-gate ≥95%` → ini gap & klaim orisinalmu.
 
 ---
 

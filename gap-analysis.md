@@ -4,10 +4,12 @@
 
 ---
 
-## 🧩 Gap 1 — OCR khusus *timbangan industrial* nyaris kosong di literatur
-- Mayoritas riset OCR 7-segment: **meter utilitas** (listrik/air/gas) & **alat medis**.
-- Solusi timbangan yang ada sifatnya **komersial tertutup** (A.N.LAB 7-SeG OCR, MFCVISION/Gemini, aplikasi internal), atau **aplikasi pabrikan** (RS-232/USB/Ethernet dari timbangan modern), **bukan metode yang dipublikasi & bisa direplikasi**.
-- Paper akademik terdekat: **Reyes-Reyes 2025** (timbangan peternakan) — tapi konteksnya beda: tanpa desimal eksak, tanpa audit, bukan timbangan logistik/komersial industrial.
+## 🧩 Gap 1 — OCR khusus *timbangan industrial transaksi komersial* kosong
+- Ada riset baca layar timbangan tapi **konteks non-transaksi**: Reyes-Reyes (IEEE Access 2025, timbangan peternakan), Xu et al. (2020, timbangan elektronik ujian), visual-weighing dump truck (ResNet, ~60%).
+- Mayoritas literatur OCR 7-segment: **meter utilitas** (listrik/air/gas) & **alat medis**.
+- Literatur IoT "jembatan timbang" Indonesia baca berat dari **loadcell (hardware)**, BUKAN dari **foto layar** — jadi tidak tumpang tindih dengan pendekatan kamera/OCR.
+- Solusi timbangan industrial yang ada bersifat **komersial tertutup** (A.N.LAB 7-SeG OCR, MFCVISION/Gemini, aplikasi internal) — bukan metode terpublikasi yang bisa direplikasi.
+- → **Kosong spesifik**: timbangan industri/logistik untuk *transaksi komersial* dengan kendala `desimal eksak (nilai berat = uang) + no-manual-input (audit) + offline/edge + confidence-gate ≥95%`. Paper terdekat (Reyes-Reyes) tanpa desimal eksak & tanpa kendala sistem.
 
 ## 🧩 Gap 2 — *Semantic format-berat* (desimal, kg, indikator stabil, tare) belum ditangani
 - **Li & Bai (*Symmetry* 2026)** baru mulai: desimal hilang = error 100×, pakai *format rules* (standar GB/T meter).
