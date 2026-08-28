@@ -56,7 +56,7 @@ Object : industrial weighing-scale displays (7-segment/LED)
 ### Urutan & nama (TANPA gelar, sesuai slide)
 | # | Nama | Peran |
 |---|---|---|
-| 1 | **Febnawan Fatur Rochman** | Penulis utama — kontributor riset & penulisan (mahasiswa) |
+| 1 | **[Nama Penulis Utama]** | Penulis utama — kontributor riset & penulisan (mahasiswa) |
 | 2 | **Alam Rahmatulloh** | Penulis kedua — dosen pengampu & pembimbing (kontributor substansi) |
 
 > *Catatan teknis:* slide melarang pencantuman gelar di baris penulis. Gelar akademik dosen hanya untuk identifikasi internal.
@@ -67,7 +67,7 @@ Object : industrial weighing-scale displays (7-segment/LED)
 - Jl. Siliwangi No. 24, Kahuripan, Kec. Tawang, Kota Tasikmalaya, Jawa Barat 46115, Indonesia
 
 ### Email (isi email asli sebelum submit)
-- Febnawan Fatur Rochman (corresponding author): `[email mahasiswa]`
+- [Nama Penulis Utama — corresponding author]: `[email mahasiswa]`
 - Alam Rahmatulloh: `[email dosen]`
 
 ### Alamat sesuai slide untuk mahasiswa
