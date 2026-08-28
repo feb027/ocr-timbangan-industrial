@@ -24,7 +24,7 @@
 | File | Isi |
 |---|---|
 | [`judul-artikel.md`](judul-artikel.md) | Judul (ID/EN) + justifikasi + penulis & afiliasi sesuai kaidah slide PI |
-| [`literature-review.md`](literature-review.md) | **14 jurnal** terverifikasi, terkini (2018–2026), dianotasi |
+| [`literature-review.md`](literature-review.md) | **18 jurnal** terverifikasi, terkini (2019–2026), dianotasi |
 | [`gap-analysis.md`](gap-analysis.md) | 3 gap riset + tujuan/obyek/metode paper |
 | [`fact-check-ppt.md`](fact-check-ppt.md) | Verifikasi klaim PPT *Analisa Timbang* terhadap literatur |
 | [`references.md`](references.md) | Daftar pustaka lengkap (APA-format) + DOI |
