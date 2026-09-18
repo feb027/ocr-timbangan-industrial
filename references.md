@@ -1,5 +1,9 @@
 # Daftar Pustaka (APA-7) — Diverifikasi 28 Agu 2026
 
+> ⚠️ **Koreksi 18 Sep 2026** — 8 entri di bawah bukan artikel jurnal (prosiding/book series),
+> dan 2 entri punya kesalahan data: **#12 DOI salah-tunjuk**, **#14 penulis pertama salah**.
+> Versi pengganti yang semuanya jurnal + terverifikasi: [`jurnal-terindeks.md`](jurnal-terindeks.md).
+
 > Semua DOI/URL dicek langsung saat riset. Urutan = urutan sitasi di `literature-review.md`.
 
 1. **Li, Y., & Bai, Y.** (2026). Recognition of electricity meter digits based on improved YOLOv10n and cascaded visual-semantic processing. *Symmetry, 18*(4), 694. https://doi.org/10.3390/sym18040694

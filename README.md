@@ -28,6 +28,8 @@
 | [`gap-analysis.md`](gap-analysis.md) | 3 gap riset + tujuan/obyek/metode paper |
 | [`fact-check-ppt.md`](fact-check-ppt.md) | Verifikasi klaim PPT *Analisa Timbang* terhadap literatur |
 | [`references.md`](references.md) | Daftar pustaka lengkap (APA-format) + DOI |
+| [`jurnal-terindeks.md`](jurnal-terindeks.md) | **BARU (18 Sep 2026)** — 28 referensi jurnal pengganti (semua DOI dicek ke Crossref) + kandidat jurnal target submit + daftar entri lama yang harus dibuang |
+| [`scripts/verify_refs.py`](scripts/verify_refs.py) | Cek ulang semua DOI di `jurnal-terindeks.md` ke Crossref API |
 
 ---
 
