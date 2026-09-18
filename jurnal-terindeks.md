@@ -23,56 +23,56 @@ Nomor di tabel = nomor sitasi di seluruh file dan di [bagian E](#e-daftar-pustak
 
 ### A1. Nilai eksak & desimal — Gap 2
 
-| No | Penulis & tahun | Jurnal (penerbit) | Fungsi di paper |
-|---|---|---|---|
-| 1 | Huang dkk. (2024) | Mathematics (MDPI) | **Anchor kebaruan:** koreksi formal digit yang hilang pada pembacaan instrumen |
-| 2 | Li & Bai (2026) | Symmetry (MDPI) | Desimal hilang = error 100×; solusi *format rules* |
-| 3 | Wang dkk. (2023) | Measurement Science and Technology (IOP) | Nilai skala sebagai *prior* semantik saat membaca instrumen |
-| 4 | Peng dkk. (2024) | Sensors (MDPI) | SOTA ringan pembacaan meter real-time |
+| No | Penulis & tahun | Judul | Jurnal (penerbit) | Fungsi di paper |
+|---|---|---|---|---|
+| 1 | Huang dkk. (2024) | Utilizing Cross-Ratios for the Detection and Correction of Missing Digits in Instrument Digit Recognition | Mathematics (MDPI) | **Anchor kebaruan:** koreksi formal digit yang hilang pada pembacaan instrumen |
+| 2 | Li & Bai (2026) | Recognition of Electricity Meter Digits Based on Improved YOLOv10n and Cascaded Visual-Semantic Processing | Symmetry (MDPI) | Desimal hilang = error 100×; solusi *format rules* |
+| 3 | Wang dkk. (2023) | Scale value guided Lite-FCOS for pointer meter reading recognition | Measurement Science and Technology (IOP) | Nilai skala sebagai *prior* semantik saat membaca instrumen |
+| 4 | Peng dkk. (2024) | An Improved YOLOv7-Based Model for Real-Time Meter Reading with PConv and Attention Mechanisms | Sensors (MDPI) | SOTA ringan pembacaan meter real-time |
 
 ### A2. Domain pembacaan display/instrumen — Gap 1
 
-| No | Penulis & tahun | Jurnal (penerbit) | Fungsi di paper |
-|---|---|---|---|
-| 5 | Xiang dkk. (2026) | Sensors (MDPI) | Paling baru & paling dekat: 7-segment LED + kerangka akuisisi data |
-| 6 | Kanagarathinam & Sekar (2019) | Energy Reports (Elsevier) | Dataset publik YUVA-EB — **DOI lama salah, lihat bagian D** |
-| 7 | Reyes-Reyes dkk. (2025) | IEEE Access | **Domain-analog terdekat:** baca berat dari layar timbangan digital |
-| 8 | Li dkk. (2022) | Engineering Reports (Wiley) | Baca display instrumen industri (capsule network), digitalisasi IIoT |
-| 9 | Fan dkk. (2022) | IEEE Trans. on Instrumentation and Measurement | Pengenalan meter real-time di jurnal instrumen #1 (SJR Q1) |
-| 10 | Zhao dkk. (2024) | IEEE Internet of Things Journal | Digit word-wheel meter air, infrastruktur urban |
-| 11 | Meškuotienė dkk. (2025) | Applied Sciences (MDPI) | Integritas pengukuran & transaksi komersial di logistik |
-| 12 | Jeon dkk. (2023) | Sensors (MDPI) | Digit recognition embedded real-time (ROMI) |
-| 13 | Lobo dkk. (2023) | Heliyon (Elsevier) | Pipeline kamera HP → baca display alat → mHealth |
-| 14 | Li dkk. (2025) | Sensors (MDPI) | Pointer meter reading untuk transformasi digital manufaktur |
-| 15 | Fan & Li (2024) | IEEE Sensors Journal | Pembacaan meter pointer (instrumen, penerbit IEEE) |
-| 16 | Liang dkk. (2022) | Scientific Reports (Nature) | Water meter reading berbasis deep learning |
+| No | Penulis & tahun | Judul | Jurnal (penerbit) | Fungsi di paper |
+|---|---|---|---|---|
+| 5 | Xiang dkk. (2026) | Semi-Supervised Seven-Segment LED Display Recognition with an Integrated Data-Acquisition Framework | Sensors (MDPI) | Paling baru & paling dekat: 7-segment LED + kerangka akuisisi data |
+| 6 | Kanagarathinam & Sekar (2019) | Text detection and recognition in raw image dataset of seven segment digital energy meter display | Energy Reports (Elsevier) | Dataset publik YUVA-EB — **DOI lama salah, lihat bagian D** |
+| 7 | Reyes-Reyes dkk. (2025) | A Deep Learning Approach for Image Analysis and Reading Body Weight From Digital Scales in Pigs Farms | IEEE Access | **Domain-analog terdekat:** baca berat dari layar timbangan digital |
+| 8 | Li dkk. (2022) | Instrument reading recognition by deep learning of capsules network model for digitalization in Industrial Internet of Things | Engineering Reports (Wiley) | Baca display instrumen industri (capsule network), digitalisasi IIoT |
+| 9 | Fan dkk. (2022) | Real Time Power Equipment Meter Recognition Based on Deep Learning | IEEE Trans. on Instrumentation and Measurement | Pengenalan meter real-time di jurnal instrumen #1 (SJR Q1) |
+| 10 | Zhao dkk. (2024) | Effective Recognition of Word-Wheel Water Meter Readings for Smart Urban Infrastructure | IEEE Internet of Things Journal | Digit word-wheel meter air, infrastruktur urban |
+| 11 | Meškuotienė dkk. (2025) | Ensuring Measurement Integrity in Petroleum Logistics: Applying Standardized Methods, Protocols, and Corrections | Applied Sciences (MDPI) | Integritas pengukuran & transaksi komersial di logistik |
+| 12 | Jeon dkk. (2023) | ROMI: A Real-Time Optical Digit Recognition Embedded System for Monitoring Patients in Intensive Care Units | Sensors (MDPI) | Digit recognition embedded real-time (ROMI) |
+| 13 | Lobo dkk. (2023) | Smart scan of medical device displays to integrate with a mHealth application | Heliyon (Elsevier) | Pipeline kamera HP → baca display alat → mHealth |
+| 14 | Li dkk. (2025) | Deep Learning-Based Pointer Meter Reading Recognition for Advancing Manufacturing Digital Transformation Research | Sensors (MDPI) | Pointer meter reading untuk transformasi digital manufaktur |
+| 15 | Fan & Li (2024) | Image Recognition and Reading of Single Pointer Meter Based on Deep Learning | IEEE Sensors Journal | Pembacaan meter pointer (instrumen, penerbit IEEE) |
+| 16 | Liang dkk. (2022) | Research on water meter reading recognition based on deep learning | Scientific Reports (Nature) | Water meter reading berbasis deep learning |
 
 ### A3. Sim-to-real & data sintetik — Gap 3
 
-| No | Penulis & tahun | Jurnal (penerbit) | Fungsi di paper |
-|---|---|---|---|
-| 17 | Chakir & Aaroud (2026) | Array (Elsevier) | 61,5% ≥95% di kondisi terkontrol, **hanya 4,5% sampai deployment** |
-| 18 | Schraml & Notni (2024) | Sensors (MDPI) | Kamera/cahaya/noise menentukan kegagalan model berdata sintetik |
-| 19 | Dalmasso dkk. (2026) | IJDAR (Springer) | Pendekatan sintetik→nyata untuk pengenalan karakter |
-| 20 | Zhang dkk. (2025) | Pattern Recognition (Elsevier) | Domain adaptation multi-granularitas untuk text recognition |
-| 21 | Mumuni dkk. (2024) | Machine Intelligence Research (Springer) | Survey augmentasi data sintetik di machine vision |
-| 22 | Alzubaidi dkk. (2023) | Journal of Big Data (Springer) | Survey *data scarcity* + solusinya |
+| No | Penulis & tahun | Judul | Jurnal (penerbit) | Fungsi di paper |
+|---|---|---|---|---|
+| 17 | Chakir & Aaroud (2026) | The autonomy–accuracy–universality trilemma in camera-based water meter reading: A PRISMA systematic review and taxonomy | Array (Elsevier) | 61,5% ≥95% di kondisi terkontrol, **hanya 4,5% sampai deployment** |
+| 18 | Schraml & Notni (2024) | Synthetic Training Data in AI-Driven Quality Inspection: The Significance of Camera, Lighting, and Noise Parameters | Sensors (MDPI) | Kamera/cahaya/noise menentukan kegagalan model berdata sintetik |
+| 19 | Dalmasso dkk. (2026) | Reviving medieval byzantine seals: a synthetic-to-real approach to character recognition | IJDAR (Springer) | Pendekatan sintetik→nyata untuk pengenalan karakter |
+| 20 | Zhang dkk. (2025) | MAGIC: Multi-granularity domain adaptation for text recognition | Pattern Recognition (Elsevier) | Domain adaptation multi-granularitas untuk text recognition |
+| 21 | Mumuni dkk. (2024) | A Survey of Synthetic Data Augmentation Methods in Machine Vision | Machine Intelligence Research (Springer) | Survey augmentasi data sintetik di machine vision |
+| 22 | Alzubaidi dkk. (2023) | A survey on deep learning tools dealing with data scarcity: definitions, challenges, solutions, tips, and applications | Journal of Big Data (Springer) | Survey *data scarcity* + solusinya |
 
 ### A4. Constraint sistem: confidence-gate, audit, edge — Gap 4
 
-| No | Penulis & tahun | Jurnal (penerbit) | Fungsi di paper |
-|---|---|---|---|
-| 23 | Hendrickx dkk. (2024) | Machine Learning (Springer) | **Justifikasi ilmiah** reject option/abstention = confidence-gate |
-| 24 | Silva Filho dkk. (2023) | Machine Learning (Springer) | Dasar kalibrasi confidence (kenapa 76% confident bisa salah) |
-| 25 | Gawlikowski dkk. (2023) | Artificial Intelligence Review (Springer) | Survey uncertainty DNN (*confidently wrong*) |
-| 26 | Cordova-Cardenas dkk. (2025) | Electronics (MDPI) | Framework deployment Edge AI di perangkat embedded |
-| 27 | Carvalho dkk. (2023) | Applied Sciences (MDPI) | Pembacaan meter real-time di perangkat edge |
+| No | Penulis & tahun | Judul | Jurnal (penerbit) | Fungsi di paper |
+|---|---|---|---|---|
+| 23 | Hendrickx dkk. (2024) | Machine learning with a reject option: a survey | Machine Learning (Springer) | **Justifikasi ilmiah** reject option/abstention = confidence-gate |
+| 24 | Silva Filho dkk. (2023) | Classifier calibration: a survey on how to assess and improve predicted class probabilities | Machine Learning (Springer) | Dasar kalibrasi confidence (kenapa 76% confident bisa salah) |
+| 25 | Gawlikowski dkk. (2023) | A survey of uncertainty in deep neural networks | Artificial Intelligence Review (Springer) | Survey uncertainty DNN (*confidently wrong*) |
+| 26 | Cordova-Cardenas dkk. (2025) | Edge AI in Practice: A Survey and Deployment Framework for Neural Networks on Embedded Systems | Electronics (MDPI) | Framework deployment Edge AI di perangkat embedded |
+| 27 | Carvalho dkk. (2023) | Deep Learning-Powered System for Real-Time Digital Meter Reading on Edge Devices | Applied Sciences (MDPI) | Pembacaan meter real-time di perangkat edge |
 
 ### A5. Konteks lokal
 
-| No | Penulis & tahun | Jurnal (penerbit) | Fungsi di paper |
-|---|---|---|---|
-| 28 | Nugroho dkk. (2024) | Jurnal RESTI (IAII) | Penggunaan Tesseract OCR di jurnal Indonesia — sitasi familiar |
+| No | Penulis & tahun | Judul | Jurnal (penerbit) | Fungsi di paper |
+|---|---|---|---|---|
+| 28 | Nugroho dkk. (2024) | The Design of a C1 Document Data Extraction Application Using a Tesseract-Optical Character Recognition Engine | Jurnal RESTI (IAII) | Penggunaan Tesseract OCR di jurnal Indonesia — sitasi familiar |
 
 ---
 
