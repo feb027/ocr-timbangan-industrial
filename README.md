@@ -29,6 +29,7 @@
 | [`fact-check-ppt.md`](fact-check-ppt.md) | Verifikasi klaim PPT *Analisa Timbang* terhadap literatur |
 | [`references.md`](references.md) | Daftar pustaka lengkap (APA-format) + DOI |
 | [`jurnal-terindeks.md`](jurnal-terindeks.md) | **BARU (18 Sep 2026)** — 28 referensi jurnal pengganti (semua DOI dicek ke Crossref) + kandidat jurnal target submit + daftar entri lama yang harus dibuang |
+| [`riset-model-crnn-ctc-7segment.md`](riset-model-crnn-ctc-7segment.md) | **BARU (21 Sep 2026)** — Survey model OCR 7-segment: CRNN-CTC berbasis data sintetis — bukti literatur, model siap pakai/fine-tune, dataset publik, desain eksperimen evaluasi |
 | [`scripts/verify_refs.py`](scripts/verify_refs.py) | Cek ulang semua DOI di `jurnal-terindeks.md` ke Crossref API |
 
 ---
